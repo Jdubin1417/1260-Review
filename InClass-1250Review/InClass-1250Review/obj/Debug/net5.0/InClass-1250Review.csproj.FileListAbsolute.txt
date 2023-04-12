@@ -1,0 +1,16 @@
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\bin\Debug\net5.0\InClass-1250Review.exe
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\bin\Debug\net5.0\InClass-1250Review.deps.json
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\bin\Debug\net5.0\InClass-1250Review.runtimeconfig.json
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\bin\Debug\net5.0\InClass-1250Review.runtimeconfig.dev.json
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\bin\Debug\net5.0\InClass-1250Review.dll
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\bin\Debug\net5.0\ref\InClass-1250Review.dll
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\bin\Debug\net5.0\InClass-1250Review.pdb
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\InClass-1250Review.csproj.AssemblyReference.cache
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\InClass-1250Review.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\InClass-1250Review.AssemblyInfoInputs.cache
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\InClass-1250Review.AssemblyInfo.cs
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\InClass-1250Review.csproj.CoreCompileInputs.cache
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\InClass-1250Review.dll
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\ref\InClass-1250Review.dll
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\InClass-1250Review.pdb
+E:\Fall 2022\1260\Code\InClass-1250Review\InClass-1250Review\obj\Debug\net5.0\InClass-1250Review.genruntimeconfig.cache

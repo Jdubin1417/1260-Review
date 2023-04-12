@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InClass-1250Review/1.0.0": {
+        "runtime": {
+          "InClass-1250Review.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InClass-1250Review/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

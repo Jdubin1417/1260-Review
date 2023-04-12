@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nf7XFFAD2Btp77GUcaE0QuXOXXa7Hia9XaB9Hs1D5XYy/xB7n4+RXYyLLN2Rrf8DhpUgbDkfRqjTr4SjgJm37g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itsmr\\OneDrive - East Tennessee State University\\Documents\\ETSU\\Fall 2022\\CSCI 1260 001\\In Class Code - Notes\\InClass-1250Review\\InClass-1250Review\\InClass-1250Review.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itsmr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\itsmr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\itsmr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\itsmr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
